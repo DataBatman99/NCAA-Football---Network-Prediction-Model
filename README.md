@@ -2,7 +2,7 @@ NCAA Football Network Predictor
 
 Can team rankings predict which games land on the biggest networks?
 
-In sports advertising, broadcast network matters enormously - a game on ESPN commands far higher CPMs than one on CBSSN. The problem: ad inventory is often sold before network assignments are confirmed, which means analysts must estimate a game's value from what they do know — the teams.
+In sports advertising, broadcast network matters enormously - a game on ESPN commands far higher CPMs than one on CBSSN. The problem: ad inventory is often sold before network assignments are confirmed, which means analysts must estimate a game's value from what they do know: the teams.
 This project builds a logistic regression model that predicts the probability of a college football game airing on a major network (ESPN, FOX, ABC, or TNT) using AP Top 25 rankings as features.
 Data Sources
 
